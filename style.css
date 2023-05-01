@@ -159,7 +159,7 @@ li,
         border-top: 1px solid var(--border-color);
     }
     .text-input textarea {
-        height: 600px;
+        width: 300px;
     }
     .controls .row .icons {
         display: none;
