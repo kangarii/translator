@@ -50,7 +50,7 @@ body {
 }
 
 .text-input textarea {
-    width: 560px;
+    width: 300px;
     background: var(--main-color) ;
     height: 200px;
     padding: 12px;
@@ -159,15 +159,15 @@ li,
         border-top: 1px solid var(--border-color);
     }
     .text-input textarea {
-        height: 200px;
+        height: 300px;
     }
     .controls .row .icons {
         display: none;
     }
-    /* .container button {
+    .container button {
         padding: 13px;
         font-size: 16px;
-    } */
+    }
     .controls .row select {
         font-size: 16px;
     }
